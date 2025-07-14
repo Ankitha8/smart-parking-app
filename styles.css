@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    background-color: #f4f4f4;
+}
+h1 {
+    text-align: center;
+}
+#status {
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+#map {
+    height: 300px;
+    width: 100%;
+    margin-bottom: 20px;
+    background-color: #ccc;
+}
+#parking-list {
+    border-top: 1px solid #ccc;
+    padding-top: 10px;
+}
