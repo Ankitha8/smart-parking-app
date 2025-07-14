@@ -67,5 +67,4 @@ smart_parking_app/
 
 ## 👤 Author
 
-**Ankitha Devaraja**  
-Built with the help of ChatGPT 💡
+**Ankitha 
